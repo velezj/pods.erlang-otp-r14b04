@@ -1,0 +1,6 @@
+pod-build/
+*~
+*.touch
+*.tar.gz
+otp_src_R14B04/
+
